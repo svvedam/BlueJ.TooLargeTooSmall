@@ -1,10 +1,11 @@
 #BlueJ class context
 comment0.target=Main
-comment0.text=\n\ Write\ a\ description\ of\ class\ Main\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
 comment1.target=Main()
 comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Main\n
-comment2.params=y
-comment2.target=int\ sampleMethod(int)
-comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
-numComments=3
+comment2.params=x\ storedArray
+comment2.target=java.lang.Boolean\ verifyValue(int,\ java.util.ArrayList)
+comment2.text=\n\ This\ method\ is\ checking\ if\ a\ value\ is\ part\ of\ ArrayList\ or\ not\n\n\ @param\ \ x\ \ a\ the\ value\ we\ are\ checking\ in\ the\ ArrayList\n\ @param\ storedArray\ is\ the\ ArrayList\ storing\ all\ values\ entered\ in\ terminal\n\ @returns\ false\ when\ the\ value\ is\ not\ found.\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
